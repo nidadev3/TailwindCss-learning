@@ -11,6 +11,6 @@
 /* Fraunces semi-bold class for hero heading */
 .fraunces-semibold {
   font-family: 'Fraunces', serif;
-  font-weight: 400; /* semi-bold */
+  font-weight: 500; /* semi-bold */
   font-style: italic; /* make it italic */
 }
